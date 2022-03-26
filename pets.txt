@@ -2,3 +2,5 @@ Snoopy
 Tommy
 Gimmy
 Jerry
+Scooby
+Sammy
