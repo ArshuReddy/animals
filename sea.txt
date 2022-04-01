@@ -2,3 +2,5 @@ octopus
 shark
 jelly fish
 Blue Whale
+Sea Turtle
+Tortoise
